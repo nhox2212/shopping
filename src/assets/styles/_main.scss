@@ -1,0 +1,14 @@
+@import 'font-awesome/css/font-awesome.min.css';
+@import '../../../node_modules/bootstrap/scss/bootstrap.scss';
+@import './_color.scss';
+@import './_layout.scss';
+@import './_text.scss';
+$fa-font-path: "~font-awesome/fonts";
+
+.container {
+  background: #ffffff;
+}
+
+.nav-item a {
+  color: $black;
+}
